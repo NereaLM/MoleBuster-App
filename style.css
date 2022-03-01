@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/57/34/b8/5734b8b70974c587510dd367aabd0ba2.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: auto auto;
+}
+
+.mainContainer {
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 300px;
+  
+}
+
+.hoyo {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: auto auto;
+}
+
+img {
+    width: 100px;
+    height: 100px;   
+}
+  
